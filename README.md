@@ -1,4 +1,4 @@
-# Arquitetura AWS - Santander Code Girls 2025
+# 🚀 Desafio 1: Diagramas AWS (EC2, EBS, S3, Lambda) - Santander Code Girls 2025
 
 Este repositório contém meu primeiro desafio do bootcamp **Santander Code Girls 2025**, em parceria com a **DIO**.  
 
