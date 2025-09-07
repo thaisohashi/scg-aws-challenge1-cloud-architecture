@@ -53,8 +53,7 @@ O objetivo é demonstrar o **fluxo de dados** e o **uso prático de cada serviç
 - **S3**  
 - **Lambda**  
 - **Draw.io**
-
----
+  
 
 ## 🔍 Como Visualizar os Diagramas
 
